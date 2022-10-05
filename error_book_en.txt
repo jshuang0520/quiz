@@ -1,4 +1,311 @@
 
+===== 2022-10-05 19:41:12 ===== There are [150] questions; range [no. 0] ~ [no. 2962]
+debacle,  patronizing,  reverberant,  cardinal,  delinquent,  skittish,  dissipate,  euphoria,  halfhearted,  flaunt,  incendiary,  mortify,  imperative,  secede,  rant,  luxur,  extort,  dissimulate,  demagogue,  patronizing,  chicanery,  inveigle,  obtrude,  retrograde,  rescind,  deprave
+
+===== 2022-10-05 18:06:02 ===== There are [170] questions; range [no. 0] ~ [no. 2962]
+unliterary,  convection,  evince,  dolorous,  facility,  canned,  obeisance,  presume,  occidental,  suspicion,  excruciate,  saturated,  propensity,  discomfit,  retort,  disgruntle,  impersonate,  grievance,  delimit,  jurisdiction,  stipulate,  garment,  graphite,  apposite,  verg,  terrace,  chicanery,  imperturbable,  aplomb,  valiant,  unilateral,  camouflage,  extort,  attuned,  ordeal,  sumptuous,  inscription,  ingrate,  peremptory,  stipulate,  accomplice,  peripatetic,  peculate,  subjugate,  refract,  discreet,  camouflage
+
+===== 2022-10-05 12:05:52 ===== There are [150] questions; range [no. 0] ~ [no. 2962]
+melliflous,  proscribe,  induce,  antithetical,  baroque
+
+===== 2022-10-04 23:04:28 ===== There are [170] questions; range [no. 0] ~ [no. 2962]
+uncanny,  maleficent,  tect,  debacle,  scald,  override,  progeny,  rail at
+
+===== 2022-10-04 13:54:02 ===== There are [170] questions; range [no. 0] ~ [no. 2962]
+antithetical,  choleric,  rumination,  vag,  profuse,  eminence,  entreat,  contagious,  numinous,  sophistication,  accomplice,  stipulate,  rumination,  extenuate,  pediatrics,  untenable,  falsification,  imperturbable,  impertinent,  retort,  inculcate,  exodus,  convection,  prescient,  unliterary,  scald,  reverberant,  faction,  extort,  superlative,  agnostic,  stint,  disgruntle,  abominate,  subjugate,  assimilate,  reprove,  regimental,  bearing,  persecute,  drollness,  stint,  punurious,  surmise,  mirage,  unliterary,  upfront,  skittish,  staple,  emanate,  reverberant,  preamble,  devoid,  reprove,  persecute
+
+===== 2022-10-03 21:14:14 ===== There are [600] questions; range [no. 0] ~ [no. 2962]
+acerb,acid,acri,acu,  acrimony,  acuity,  acumen,  reactant,  aer,  agitated,  coagulate,  exigent,  prodigal,  agr, egr,  agriculture,  coalesce,  am,  amateur,  amity,  amble,  shamble,  ampl,  animation,  animosity,  pusillanimous,  philanthropic,  deft,  aqua, aque,  aquarious,  arbit,  arboreal,  arboretum,  monarchy,  asper,  astronomical,  avi, avis,  aviation,  banish,  barrier,  barricade,  base,  abase,  base,  debase,  battalion,  bibber,  forbid,  forbidding,  cad, cas, cid,  sclading,  calculate,  cand, cend,  captious,  captivate,  carnage,  incessant,  recede,  celer,  cens,  center,  receive,  cern,  chromatic,  anachronistic,  supercilious,  succinct,  emancipate,  recite,  insouciant,  resuscitate,  solicit,  clamor,  disclaimer,  exclamation,  clannish,  clud, clus, claus,  close,  conclusive,  occlude,  codify,  recognize,  col,  irreconcilable,  abscond,  excoriate,  cosm,  cosmos,  cracy, crat,  throcracy,  crescendo,  credit card,  cret,  secrete,  crim,  cross,  crypt,  crypt,  cultivate,  cumb,  succumb,  incumbent,  discursive,  discuss,  cynical,  cynosure,  dignity,  indignant,  decor,  decorous,  del,  delete,  di,  di, du,  benediction,  verdict,  doctor,  dol,  condolence,  doleful,  dominate,  endorse,  dog, dox,  paradox,  orthodox,  maladroit,  seductive,  subdue,  equilibrium,  error,  erroneous,  ert,  inertia,  ess,  aesthetic,  defamatory,  facsimile,  face,  preface,  preface,  self-effacement,  fallacious,  fallibility,  fanciful,  affect,  affected,  defect,  feit(=fact),  felic,  felicitate,  infelicity,  fer,  deference,  peripheral,  fever,  ferment,  profess,  deficient,  ramification,  fidelity,  perfidy,  figur, fig,  figurative,  affiliated,  filter,  fin,  affinity,  finesse,  fine-tune,  confirm,  fiscal,  fix,  flam,  conflate,  deflated,  reflective,  conflict,  profligate,  influx,  formal,  conformity,  fragmentary,  suffrage,  refulgent,  perfume,  found, fund,  foundation,  founder,  effusive,  gene,  genesis,  genome,  engender,  ingenious,  disingenuous,  digest,  glyph,  petroglyph,  prognosis,  granular,  grat,  grateful,  ingratiate,  grav,  aggregate,  aggression,  grief,  incongruous,  habitat,  inhale,  her,  inherit,  heredity,  heretical,  human,  humanitatian,  inhumane,  hydrogen,  hydrate,  idolatrize,  integrity,  it,  circuitous,  ject,  objective,  jud,  judge,  jug,  conjugal,  adjunct,  juncture,  conjure,  objurgate,  juven,  jubilation,  belabor,  bilateral,  eclectic_,  legal,  allegiance,  legislature,  illiberal,  obligatory,  underline,  illiterate,  literate,  obliterate,  paleolithic,  dialogue,  apologist,  colloquial,  loquacious,  long-winded,  lucid,  collude,  delude,  elude,  disillusioned,  lumin,  lun,  wanderlust,  luxurious,  malign,  magnificant,  magnitude,  man, manu,  mand,  reprimand,  monomania,  marine,  hallmark,  remedy,  mediate,  mediocre,  intermediary,  memor,  memory,  memoir,  demean,  minatory,  commend,  mendacious,  mens,  commensurate,  ment,  mental,  centimeter,  migration,  migratory,  minion,  minu,  diminutive,  minute,  miss, mis, mit,  demise,  remiss,  remission,  submission,  mne,  model,  demonstrative,  demonstrable,  monstrous,  moral,  mortgage,  morbid,  immune,  municipality,  demur,  transmute,  native,  nascent,  natal,  navigate,  nausea,  negate,  nerv,  energize,  nex,  noc, nox, nic,  noxious,  noisome,  norm, usual,  normative,  nostrum,  novice,  null_,  malodorous,  onerous,  onym,  anonymous,  adopt,  synoptic,  oracular,  order,  ordin,  orn,  adorn,  ornamental,  palp,  disparage,  disparate,  parity,  compartment,  counterpart,  surpass,  passi, pati, path,  pathetic,  compatible,  compassionate,  dispassionate,  pathos,  patri,  expatriate,  pecun,  pecuniary,  expedient,  penitential,  impending,  penchant,  pensive,  expense,  dispensable,  personification,  perpetuate,  petulant,  propitious,  claustrophobic,  xenophobe,  phor,  photosensitive,  phyte,  pin,  implacable,  placebo,  applaud,  implausible,  plenitude,  complete,  compliance,  pliant,  pliers,  supplicate,  explore,  extrapolate,  pompous,  import,  opportunistic,  decompose,  imposing,  potent,  precarious,  prehend, prehens,  impressive,  primary,  primal,  pristine,  probity,  proprietary,  proximity,  repudiate,  impugn,  convulsion,  purify,  expurgate,  purge,  quirky,  erase,  rap,  rectitude,  sovereignty,  reptile,  ridiculous,  ridicule,  rife,  riveting,  robust,  rud,  satiate,  savvy,  escalate,  ascend,  slander,  sci,  prescient,  schism,  sectarianism,  secu,  sediment,  serv,  signal,  consign,  assimilate,  insinuate,  sip,  obsolescent,  solv, solu,  absolve,  son,  introspective,  perspicuous,  specious,  disperse,  ecstatic,  state,  constellation,  sti, stimul,  str, strain, strict, stress,  strophe, trope,  assume,  contiguous,  intangible,  abstemious,  tenacious,  tem,  abstemious,  temporary,  temporal,  extend,  terrestrial,  intimidate,  detonate,  torment,  tour,  tract,  retract,  treatise,  trem,  tribut,  retribution,  trenchant,  intrude,  abstruse,  turb,  ultimatum,  umbr,  vacu,  prevail,  evanescent,  evaporate,  contravene,  vend, vind,  vindicate,  revenge,  aver,  veritable,  proverb,  verd,  incontrovertible,  convert,  perverse,  reversible,  revert,  subvert,  veter,  inveterate,  obviate,  viable,  vigil,  vigilant,  beguile,  guile,  virtuosity,  vis, vid,  improvise,  vital,  voc, vok,  univocal,  vociferous,  vol, volunt,  devolve,  voracious,  ravenous,  promulgate,  abeyance,  absurd,  aghast,  aloof,  antidote,  arcane,  artful,  astue,  at odds,  banter,  barren,  bashful,  bereft,  bland,  bourgeois,  brandish,  byline,  bypass,  callow,  cerebral,  chide,  conceivable,  deterioration,  elegy,  exemplify,  extirpate,  extraneous,  feign,  flagrant,  fluctuate,  foreshadow,  forgo,  forthright,  garrulous,  haughty,  hectic,  heyday,  histrionic,  honorific,  imbue,  impenetrable,  impromptu,  industrious,  interplay,  inure,  lavish,  lethal,  list,  modicum,  momentary,  mundane,  naysayer,  odious,  ostensible,  ostentatious,  oust,  overwrought,  parochial,  parsimonious,  peevish,  perquisite,  philistine,  phlegmatic,  pilferage,  plastic,  prerequisite,  pretentious,  prickly,  puerile,  quarrel,  querulous,  rampant,  rancor,  rapprochement,  rebuke,  rebut,  reconnaissance,  restive,  retaliate,  reticent,  saturnine,  schematic,  shackle,  shrewd,  shun,  slake,  slumber,  somatic,  sound,  spurn,  sterling,  stratification,  stymie,  substantial,  supplement,  testimony,  temerity,  thrift,  thwart,  torpor,  trivial,  undermine,  unseemly,  vacillate,  zenith,
+
+===== 2022-10-03 20:21:14 ===== There are [170] questions; range [no. 2800] ~ [no. 2962]
+unscathed,  stipulate,  slapdash,  wont,  retrograde,  propensity,  revel,  override,  sumptuous,  staple,  scintillate,  prodigy,  outgrowth,  propensity,  uncanny,  stipulate,  staggering,  slur,  stipulate,  punurious,  rumination,  skulduggery,  scourge,  tepid,  rail at,  skulduggery,  secular,  undercut,  skittish,  quandary,  unwittingly,  rant,  substantiate,  unwittingly,  unscathed,  rehash
+
+===== 2022-10-03 19:23:55 ===== There are [170] questions; range [no. 2700] ~ [no. 2800]
+gauge,  officious,  limpid,  glamorous,  obeisance,  manifest,  malinger,  lay out,  ordeal,  inhibited,  lull,  momentous,  halfhearted,  ordeal,  meretricious,  lax,  invective,  malinger,  indigent,  intrinsic,  morose,  numinous,  oblivious,  hedonistic,  meander,  officious,  intelligible,  hunch,  glamorous,  gripe,  oblique,  inveigle
+
+===== 2022-10-03 00:03:02 ===== There are [170] questions; range [no. 2600] ~ [no. 2700]
+fauxpas,  flaunt,  debacle,  debacle,  dabble,  delimit,  crestfallen,  encomium,  contrive,  flippant,  colossal,  connive,  fauxpas,  fabricate,  dwindle,  craven,  disgruntle,  forebode,  cogent,  cosseted,  exodus,  drollness,  flagged,  drollness,  doldrums,  foil,  derelict,  ebullient,  fastidious,  descry,  estrange,  cosseted,  franchise,  fecund,  gaffe,  fathom
+
+===== 2022-10-02 14:40:24 ===== There are [170] questions; range [no. 2500] ~ [no. 2600]
+allay,  asseverate,  camouflage,  canned,  begrudging,  analogous,  bogus,  befuddle,  coddle,  chicanery,  calamity,  atrophy,  baroque,  cajole,  besiege,  bespeak,  cagey,  bravado,  archaic,  atrophy,  augur,  besiege,  begrudging,  choleric,  boorish,  bearing,  berate,  aplomb,  blatant,  choleric,  calamity,  blatant,  blunder,  abysmal
+
+===== 2022-10-01 22:44:27 ===== There are [170] questions; range [no. 2400] ~ [no. 2500]
+virulence,  impervious,  vilify,  invidious,  absorbing,  abet,  evocative,  viaduct,  provocative,  vestige,  vulgar,  virulence,  evince,  devoid,  vestig, track,  welter,  irrevocable,  nonviable,  provocative,  veteran,  reverberant,  disavow,  providential,  evince,  volatile,  avow,  provocative,  impervious,  investigate,  devious,  deviate,  virulence,  divulge,  evince,  divulge,  advocate,  revise,  reverberant
+
+===== 2022-10-01 14:21:12 ===== There are [170] questions; range [no. 2300] ~ [no. 2400]
+archetypal,  provenance,  invert,  vernacular,  value,  valiant,  ulterior,  vindictive,  verdant,  verified,  disabuse,  divert,  verg,  convection,  van, vain,  vernacular,  umbrage,  vag,  ulterior,  verdant,  verg,  avenge
+
+===== 2022-10-01 12:54:11 ===== There are [170] questions; range [no. 2200] ~ [no. 2300]
+unobtrusive,  exterminate,  anatomical,  entreat,  timorous,  obtrusive,  contumacious,  retort,  imperturbable,  obtrude,  extort,  entreat,  contrite,  detract,  terrace,  ethereal,  tremor,  ton, tun,  attuned,  antithetical,  attrition,  attribute,  attuned
+
+===== 2022-10-01 11:50:16 ===== There are [150] questions; range [no. 2100] ~ [no. 2200]
+portend,  instructive,  presumptuous,  impertinent,  insurgent,  abstinent,  extenuate,  assure,  sustenance,  stint,  contagious,  abstain,  untenable,  tangential,  presume,  impertinent,  constrain,  staunch,  distend,  tect
+
+===== 2022-09-30 23:50:19 ===== There are [200] questions; range [no. 2000] ~ [no. 2100]
+consonant,  dissimulate,  solitude,  insidious,  sinuous,  respite,  suspicion,  sophistication,  prosperous,  sophistry,  respiration,  dissimulate,  speculative
+
+===== 2022-09-30 20:27:22 ===== There are [200] questions; range [no. 1900] ~ [no. 2000]
+saturated,  aseptic,  rescind,  sanatorium,  proscribe,  rescind,  persecute,  sedative,  conscientious,  sav,  sedulous,  rescind,  assent,  conscience,  sedulous,  servile,  rescind,  sanitize,  sanitary
+
+===== 2022-09-30 18:50:06 ===== There are [150] questions; range [no. 1800] ~ [no. 1900]
+empyrean,  pud,  regimental,  rote,  queer,  derogatory
+
+===== 2022-09-30 12:21:54 ===== There are [150] questions; range [no. 1700] ~ [no. 1800]
+malapropism,  deprave,  propagare, extend,  propaganda,  apposite,  posit,  primacy,  implore,  malapropism,  reprove,  pom, pomp, splendor,  approbation,  preponderate,  reproof
+
+===== 2022-09-29 23:49:30 ===== There are [150] questions; range [no. 1600] ~ [no. 1700]
+pinnacle,  petition,  accomplice,  pinpoint,  repeat,  impetuous,  neophyte,  impersonate,  plac, calm,  phobia,  euphoria,  accomplice
+
+===== 2022-09-29 23:10:32 ===== There are [150] questions; range [no. 1500] ~ [no. 1600]
+par,  peripatetic,  foreordain,  pedantic,  imperative,  pediatrics,  peripatetic,  ordinance,  patronage,  compatriot,  prepare,  pediatrics,  patronizing,  ordinance,  pedantic,  pedagogic,  peculate,  apparel
+
+===== 2022-09-29 10:34:41 ===== There are [150] questions; range [no. 1400] ~ [no. 1500]
+exorbitant,  nounc, nunc,  acronym,  odoriferous,  abominate,  opalesent,  pronounced
+
+===== 2022-09-28 23:30:35 ===== There are [150] questions; range [no. 1300] ~ [no. 1400]
+demote,  mortify,  mutilate,  demoralize,  demote,  mit,  amortize,  munificent,  mirage,  emollient,  mortify,  surmise,  mitigant,  mitigate
+
+===== 2022-09-28 22:17:07 ===== There are [150] questions; range [no. 1200] ~ [no. 1300]
+memorandum,  martial,  demented,  emanate,  demarcate,  emanate,  preeminent,  menace,  eminence,  man, main,  reminisce,  demented,  mendacity
+
+===== 2022-09-28 21:57:04 ===== There are [150] questions; range [no. 1100] ~ [no. 1200]
+lips,  lith,  illustrious,  delinquent,  linqu,  unliterary,  lig,  luxur,  unliterary,  lunatic,  luxur,  unliterary,  illusory
+
+===== 2022-09-28 20:08:48 ===== There are [150] questions; range [no. 1000] ~ [no. 1100]
+imperial,  unilateral,  superlative,  adjourn,  relegate,  electorate,  subjugate,  abject,  jurisdiction
+
+===== 2022-09-27 20:31:43 ===== There are [150] questions; range [no. 900] ~ [no. 1000]
+grievance,  ingratiating,  agnostic,  holograph,  ingrate,  graphite,  posthumous,  grievance,  gratify
+
+===== 2022-09-27 19:34:17 ===== There are [150] questions; range [no. 800] ~ [no. 900]
+discomfit,  genetic,  infuse,  garment,  upfront,  defoliate,  defuse,  melliflous,  diffuse,  genial,  ingenuous,  refract,  progeny,  profuse,  upfront,  refractory,  forte
+
+===== 2022-09-27 19:14:40 ===== There are [150] questions; range [no. 700] ~ [no. 800]
+infiltrate,  confiscate,  beneficiary,  maleficent,  beneficent,  fictitious
+
+===== 2022-09-27 18:54:11 ===== There are [150] questions; range [no. 600] ~ [no. 700]
+ethics,  faction,  facility,  default,  falsification,  blasphemy,  ductile,  obdurate,  induce,  peremptory,  efficacious
+
+===== 2022-09-27 13:57:28 ===== There are [150] questions; range [no. 500] ~ [no. 600]
+dolorous,  decorum,  procure,  indemnify,  disdain,  procure,  malediction
+
+===== 2022-09-26 23:40:34 ===== There are [150] questions; range [no. 400] ~ [no. 500]
+inculcate,  crit,  discretion,  discreet,  excruciate,  horticulture,  decrepit,  aristocrat
+
+===== 2022-09-26 17:18:26 ===== There are [150] questions; range [no. 300] ~ [no. 400]
+celerity,  proclaim,  secede,  inception,  clarify
+
+===== 2022-09-26 17:09:22 ===== There are [150] questions; range [no. 200] ~ [no. 300]
+combustible,  occidental
+
+===== 2022-09-26 15:59:53 ===== There are [150] questions; range [no. 200] ~ [no. 300]
+cardiogram,  blockbuster,  cardinal,  carrion,  bid,  scald,  reincarnate,  incendiary
+
+===== 2022-09-26 15:43:39 ===== There are [150] questions; range [no. 100] ~ [no. 200]
+arson,  arbitrate,  aptitude
+
+===== 2022-09-26 15:11:48 ===== There are [10] questions; range [no. 0] ~ [no. 2962]
+maneuver
+
+===== 2022-09-26 06:33:50 ===== There are [150] questions; range [no. 1] ~ [no. 100]
+animadvert,  amble, ambul,  demagogue,  preamble,  pedagogic,  perambulate,  pedagogy
+
+===== 2022-09-26 06:14:55 ===== There are [20] questions; range [no. 2950] ~ [no. 2960]
+
+
+===== 2022-09-26 05:04:32 ===== There are [20] questions; range [no. 0] ~ [no. 2165]
+
+
+===== 2022-08-31 17:30:44 ===== There are [150] questions; range [no. 1500] ~ [no. 1600]
+servile,  savvy,  prescient,  dissipate,  obsequious,  desolate,  prescription,  disseminate,  dissident,  sedulous
+
+===== 2022-08-31 17:18:11 ===== There are [150] questions; range [no. 1500] ~ [no. 1600]
+sedative,  subservient,  prescription,  scrut,  dissipate,  insolent,  observant,  obsolescent,  conscientious,  assimilate,  ascendancy,  subside,  insolent,  sist,  saturated,  desolate,  obsequious,  inscription,  disconsolate,  sate,  subscribe,  disseminate,  insolent
+
+===== 2022-08-31 17:01:00 ===== There are [150] questions; range [no. 1400] ~ [no. 1500]
+impudent,  rigor,  sal, sult,  regimental,  pur, purg,  repugnant,  impugn,  compunction,  desultory,  repudiate,  desultory,  repulse,  regimental,  puncture
+
+===== 2022-08-31 12:14:08 ===== There are [150] questions; range [no. 1300] ~ [no. 1400]
+opportune,  propriety,  malapropism,  posit,  proprietary,  predisposition,  plethora,  imposing,  prav,  reproof,  propaganda,  propagate,  reprove,  politic,  pompous,  appropriate,  despotic,  pompous,  extrapolate,  plenitude,  predisposition
+
+===== 2022-08-30 17:29:21 ===== There are [150] questions; range [no. 1200] ~ [no. 1300]
+propel,  phan, phen, pehm,  petulant,  peculate,  pathological,  euphemism,  euphoria,  phonetic,  impel,  penitential,  compendium,  xerophyte,  phyte,  suspend,  impetus,  pathological,  propitious,  supplant,  dispensable,  pedantic,  photo,  penitential,  impetus,  peculate,  dispassionate,  pediatrics,  aphorism
+
+===== 2022-08-30 13:49:28 ===== There are [150] questions; range [no. 1101] ~ [no. 1200]
+nostrum,  parity,  impasse,  ordinance,  inexorable,  oracular,  insubordinate,  denunciate,  pronounced,  impart,  nostrum,  oracular,  ignominious,  impasse,  onym,  opt,  impartial,  inexorable,  particulate,  nounc, nunc,  ignominious
+
+===== 2022-08-29 22:45:07 ===== There are [150] questions; range [no. 1001] ~ [no. 1100]
+energize,  demoralize,  morbid,  mors, mord,  mit,  mortgage,  demise,  monstr,  moribund,  mot,  remonstrance,  unremitting,  submission,  remiss,  mute,  transmute,  surmise,  intermittent,  mur,  remission,  mor,  modulate,  nex,  mur
+
+===== 2022-08-29 11:09:19 ===== There are [150] questions; range [no. 901] ~ [no. 1000]
+mir,  man, main,  emend,  amenable,  demarcate,  melior,  measured,  amendment,  demean,  emanate,  hallmark,  man, main,  illustrate
+
+===== 2022-08-29 10:07:33 ===== There are [150] questions; range [no. 801] ~ [no. 900]
+superlative,  religion,  prophylactic,  levity,  unliterary,  lips,  lucr,  linqu,  religion,  prophylactic,  unliterary,  adjunct,  obligatory,  lig,  delinquent,  justify,  apologist,  lucr,  long-winded,  delude,  leaven
+
+===== 2022-08-28 16:57:55 ===== There are [150] questions; range [no. 701] ~ [no. 800]
+har, her,  ideology,  imperative,  humdrum,  hum,  imperious,  circuitous,  itinerant,  coherent,  transgress,  heredity,  idiom
+
+===== 2022-08-28 13:04:18 ===== There are [150] questions; range [no. 601] ~ [no. 700]
+ingenuous,  genesis,  genial,  refract,  defuse,  fut,  florid,  genome,  refulgent,  discomfit,  fusc,  profuse,  refulgent,  defuse,  germinate,  florid,  frivolous
+
+===== 2022-08-27 21:31:16 ===== There are [150] questions; range [no. 501] ~ [no. 600]
+prefigure,  felicitate,  flam,  confer,  ert,  affinity,  ess,  facility,  surfeit,  forfeit
+
+===== 2022-08-27 17:47:57 ===== There are [150] questions; range [no. 401] ~ [no. 500]
+iniquitous,  condolence,  equable,  due,  seductive,  condolence,  duct, duc,  subdue,  adduce,  peremptory,  nocturnal,  demotic,  conduct,  exempt,  equitable,  equable,  iniquitous
+
+===== 2022-08-27 17:33:25 ===== There are [10] questions; range [no. 415] ~ [no. 420]
+
+
+===== 2022-08-27 17:32:39 ===== There are [10] questions; range [no. 415] ~ [no. 420]
+nocturnal
+
+===== 2022-08-27 17:22:22 ===== There are [10] questions; range [no. 1] ~ [no. 10]
+acute,  acerbic
+
+===== 2022-08-27 14:58:43 ===== There are [150] questions; range [no. 301] ~ [no. 400]
+cup,  incumbent,  crep,  crea,  crit,  occult,  discretionary,  secrete,  cult,  secrete,  discriminate,  cub
+
+===== 2022-08-27 11:41:58 ===== There are [150] questions; range [no. 201] ~ [no. 300]
+cide, cise,  resuscitate,  proclaim,  cens,  clairvoyance,  clin,  celerity,  incinerate,  caval, chival,  cens,  receptive,  cinct,  incipient,  cip,  reclaim,  recite,  successively
+
+===== 2022-08-27 11:24:15 ===== There are [150] questions; range [no. 101] ~ [no. 200]
+holocaust,  debase,  recalcitrant,  incendiary
+
+===== 2022-08-27 09:26:34 ===== There are [150] questions; range [no. 0] ~ [no. 100]
+amity,  ances,  alg,  ances,  arbit,  ag,ig,  ampl,  anim,  arbit
+
+===== 2022-08-27 01:12:11 ===== There are [10] questions; range [no. 0] ~ [no. 2164]
+decor,  pediatrics
+
+===== 2022-08-27 01:09:36 ===== There are [10] questions; range [no. 1] ~ [no. 10]
+
+
+===== 2022-08-26 04:19:27 ===== There are [50] questions; range [no. 0] ~ [no. 1726]
+ingrate
+
+===== 2022-08-25 10:12:30 ===== There are [150] questions; range [no. 0] ~ [no. 1726]
+coup,  sardonic,  rail at,  counterproductive,  penitential,  defuse,  conceited,  perspicacious,  inure,  repercussion,  consign,  unconscionable,  staggering,  shading,  invective,  peremptory,  inveigle,  penitential,  remiss
+
+===== 2022-08-25 04:28:03 ===== There are [150] questions; range [no. 0] ~ [no. 1726]
+inveigle,  vitriol,  begrudging,  perspicacious,  defuse,  revolt,  desolate,  colossal,  slapdash,  receptive,  conceited,  contumacious,  preponderate,  fraught,  stint,  brackish,  illiberal,  foil,  convection,  imperative,  receptive,  defuse,  reconnaissance,  perspicacious,  blatant,  indigent,  abysmal,  proselytize
+
+===== 2022-08-22 03:41:25 ===== There are [200] questions; range [no. 0] ~ [no. 1726]
+incumbent,  unwittingly,  demean,  absolve,  privy,  rant,  subdue,  genial,  archetypal,  volatile,  invigorate,  efficacious,  delinquent,  tedious,  amenable,  indigent,  sartorial,  imperative
+
+===== 2022-08-21 04:02:37 ===== There are [150] questions; range [no. 0] ~ [no. 1726]
+provenance,  overarching,  beneficent,  exterminate,  craven,  emanate,  flummox,  insubstantial,  amenable,  gripe
+
+===== 2022-08-21 03:44:15 ===== There are [150] questions; range [no. 0] ~ [no. 1726]
+archaic,  monolithic,  sedative,  ingrate,  defuse,  sublime,  receptive,  dissimulate,  reconnaissance,  preponderate,  remiss,  conceited,  adumbrate,  indebted
+
+===== 2022-08-20 08:02:29 ===== There are [10] questions; range [no. 1] ~ [no. 10]
+repudiate,  rationale
+
+===== 2022-08-19 08:09:42 ===== There are [300] questions; range [no. 0] ~ [no. 1726]
+fraught,  apocryphal,  snub,  imperil,  ingrate,  quandary,  contumacious,  vestige,  limpid,  foil,  dissimulate,  adumbrate,  sedative,  reminiscent,  coup,  dissimulate,  pertinacity,  reconnaissance,  absolve,  oblique,  desultory,  snub,  invective,  stoop,  vestige,  apocryphal,  begrudging,  receptive,  despotic
+
+===== 2022-08-19 07:16:21 ===== There are [100] questions; range [no. 0] ~ [no. 1726]
+absolve,  defuse,  reconnaissance,  begrudging
+
+===== 2022-08-19 04:41:00 ===== There are [20] questions; range [no. 0] ~ [no. 1726]
+blatant
+
+===== 2022-08-19 04:33:39 ===== There are [30] questions; range [no. 0] ~ [no. 1726]
+limpid,  repercussion,  foil
+
+===== 2022-08-19 04:27:14 ===== There are [20] questions; range [no. 0] ~ [no. 1726]
+untenable
+
+===== 2022-08-19 04:21:33 ===== There are [50] questions; range [no. 0] ~ [no. 1726]
+adumbrate,  nondescript,  slake
+
+===== 2022-08-19 04:12:39 ===== There are [30] questions; range [no. 0] ~ [no. 1726]
+apocryphal,  slake
+
+===== 2022-08-19 04:01:55 ===== There are [30] questions; range [no. 0] ~ [no. 1726]
+inveigle,  begrudging
+
+===== 2022-08-18 10:57:22 ===== There are [100] questions; range [no. 0] ~ [no. 1726]
+prophylactic,  begrudging,  penitential,  stint,  consign
+
+===== 2022-08-18 10:42:12 ===== There are [50] questions; range [no. 0] ~ [no. 1726]
+consummate,  reconnaissance
+
+===== 2022-08-18 07:30:38 ===== There are [100] questions; range [no. 0] ~ [no. 1726]
+treatise,  desultory,  abysmal,  stoop,  desolate,  remonstrance,  surmise,  slapdash,  phlegmatic,  absolve,  penitential,  inordinate,  cynosure,  minatory,  soliloguy,  miscreant,  welter
+
+===== 2022-08-18 04:58:09 ===== There are [5] questions; range [no. 0] ~ [no. 1726]
+
+
+===== 2022-08-18 04:56:14 ===== There are [10] questions; range [no. 0] ~ [no. 1726]
+
+minatory,  abysmal
+
+===== 2022-08-17 11:21:51 ===== There are [60] questions; range [no. 1700] ~ [no. 1726]
+sound,  pigeonhole,  nebulous,  sift,  perquisite,  permeate
+
+===== 2022-08-17 11:16:56 ===== There are [150] questions; range [no. 1601] ~ [no. 1700]
+cerebral,  scourge,  flippant,  poignant,  fitfully,  flummery,  brandish,  foil,  hauteur,  invective,  limpid,  nadir,  inveigle,  brazen,  brazen,  scourge,  flummery,  indigent,  prickly,  slapdash,  inure,  bespeak,  shirk,  reconnaissance,  colossal,  slake,  rail at,  sardonic,  conceivable,  extirpate,  burgeoning,  caricature,  atrocity,  shirk,  hone,  inure,  flummery,  inveigle,  fitfully,  prodigy
+
+===== 2022-08-17 06:51:01 ===== There are [150] questions; range [no. 1501] ~ [no. 1600]
+transience,  adumbrate,  portend,  archaic,  vainglorious,  distend,  imperial,  stoop,  protract,  redolent,  irrevocable,  welter,  posterity,  reverberant,  indebted,  umbrage,  counterproductive,  perverse,  abysmal,  portend,  perspicacious,  vainglorious,  counterproductive,  untenable,  proselytize,  unalloyed,  typify,  indebted,  vicissitude,  intoxicate,  distend,  aver,  vitriol
+
+===== 2022-08-16 08:03:10 ===== There are [150] questions; range [no. 1401] ~ [no. 1500]
+sectarianism,  dissimulate,  consummate,  recast,  consign,  hamstring,  impregnable,  stanch,  brackish,  fungible,  convection,  sectarianism,  absolve,  lingering,  pertinacity,  stint,  evocative,  caviling,  sedative,  subservient,  sophistry,  petrify
+
+===== 2022-08-15 10:57:07 ===== There are [150] questions; range [no. 1301] ~ [no. 1400]
+treatise,  bourgeois,  preponderate,  initiative,  opprobrious,  explicit,  rattle,  rein,  preponderate,  imposter,  torment,  demolish,  undertaking,  bashful,  sovereign,  rein,  despotic,  photosensitive,  deprave,  imposter
+
+===== 2022-08-15 07:11:25 ===== There are [150] questions; range [no. 1201] ~ [no. 1300]
+beget,  ebullient,  impetuous,  dismantle,  nondescript,  personification,  exotic,  desolate,  malinger,  dismantle,  unconscionable,  conceited,  promulgate,  paragon,  desolate,  coup,  sleazy,  sublime,  old-timer,  belabor
+
+===== 2022-08-14 15:31:41 ===== There are [150] questions; range [no. 1101] ~ [no. 1200]
+revolt,  anneal,  inordinate,  apparition,  spiteful,  apparel,  petty,  impulsive,  apocalypse,  censor,  couch,  devolve,  gripping,  insubordinate,  flummox,  estimable
+
+===== 2022-08-14 07:06:25 ===== There are [150] questions; range [no. 1001] ~ [no. 1100]
+consternation,  impromptu,  mnemonics,  modulate,  meditate,  reminiscent,  minatory,  mendacity,  snub,  hunch,  outlandish,  remiss,  surmise,  locomotive,  apocryphal,  intermediary,  remiss,  remission
+
+===== 2022-08-14 06:23:05 ===== There are [50] questions; range [no. 900] ~ [no. 925]
+heredity,  ingrate,  ingrate
+
+===== 2022-08-13 15:40:48 ===== There are [150] questions; range [no. 900] ~ [no. 1000]
+lucubration,  abhorrent,  colloquial,  illiberal,  obligatory,  prophylactic,  monolithic,  objurgate,  soliloguy,  dejected
+
+===== 2022-08-13 15:17:13 ===== There are [150] questions; range [no. 801] ~ [no. 900]
+fallacious,  defuse,  heterogeneous,  fanatical,  defuse,  finesse,  factotum,  peremptory,  suffice,  affiliation
+
+===== 2022-08-13 09:29:25 ===== There are [150] questions; range [no. 701] ~ [no. 800]
+clannish,  cynosure,  miscreant,  capacious,  clannish,  cult,  repercussion,  occult,  receptive,  benediction,  chanty,  increment
+
+===== 2022-08-12 22:38:51 ===== There are [150] questions; range [no. 601] ~ [no. 700]
+venal,  shading,  fraught,  inalienable,  imbue,  histrionic,  quandary,  quandary,  boon,  unwieldly,  barrage,  quandary,  staggering
+
+===== 2022-08-12 22:21:41 ===== There are [150] questions; range [no. 501] ~ [no. 600]
+assent,  contumacious,  detour,  apathetic,  vestige
+
+===== 2022-08-12 10:46:24 ===== There are [150] questions; range [no. 401] ~ [no. 500]
+accolade,  penitential,  felicitous
+
+===== 2022-08-11 11:06:49 ===== There are [150] questions; range [no. 301] ~ [no. 400]
+lax,  phlegmatic,  blatant,  evince,  philistine,  detract,  adamant,  schematic,  uncanny,  imperil,  unseemly,  exiguous,  blight,  augur,  phlegmatic,  rehash,  oblique
+
+===== 2022-08-11 04:40:39 ===== There are [100] questions; range [no. 201] ~ [no. 300]
+inert,  purport,  insidious,  inscrutable
+
+===== 2022-08-11 04:29:55 ===== There are [100] questions; range [no. 101] ~ [no. 200]
+soporific,  abate,  supercilious
+
+===== 2022-08-10 11:35:28 ===== There are [100] questions; range [no. 0] ~ [no. 100]
+bland,  magnanimous
+
+===== 2022-08-10 11:24:08 ===== There are [100] questions; range [no. 100] ~ [no. 200]
+imperative,  soporific
+
+===== 2022-08-10 11:06:55 ===== There are [50] questions; range [no. 0] ~ [no. 1726]
+debrief,  peremptory,  tonic,  remonstrance,  confess
+
 ===== 2022-08-10 07:53:18 ===== There are [20] questions; range [no. 0] ~ [no. 1726]
 forsake,  vicissitude,  knotty
 

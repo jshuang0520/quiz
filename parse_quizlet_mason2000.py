@@ -22,6 +22,7 @@ file_base_path = args.file_base_path
 
 # read file - main file
 def get_your_book(file_base_path, file_name='quizlet_mason2000.csv'):
+    # df = pd.read_csv('{file_base_path}/{file_name}', sep=' - ', engine='python', header=None)
     print(f'file_base_path: {file_base_path}')
     print(f'file_name: {file_name}')
 
@@ -42,7 +43,7 @@ def get_your_book(file_base_path, file_name='quizlet_mason2000.csv'):
 # read file - your records
 def get_your_history_records(file_base_path, file_name='ans_record_file.csv'):
     ans_record_file = f'{file_base_path}/{file_name}'
-    print('start to read history records')
+    print(f'start to read history records from: {ans_record_file}')
     try:
         df_ans_record_file = pd.read_csv(ans_record_file)
         print('read history records done')
@@ -90,18 +91,41 @@ def line_prepender(filename, line):
         f.write(line.rstrip('\r\n') + '\n' + content)
 
 
+def cls():
+    """
+    ctrl + L
+    """
+    # os.system('cls' if os.name == 'nt' else 'clear')
+    os.system("clear -x")
+
+
+def choose_1_from_4_options():
+    res = input(f"""{print_out_ques}:
+            1) {input_1}
+            2) {input_2}
+            3) {input_3}
+            4) {input_4}
+            """)
+    while res not in {"1", "2", "3", "4"}:
+        print('Incorrect input. 1 or 2 or 3 or 4 is required. Try it again!')
+        res = choose_1_from_4_options()
+    return res
+
+
 if __name__ == '__main__':
     print(f'pwd: {os.getcwd()}')
     # read files
-    book_file_name = 'quizlet_mason2000.csv'
-    df = get_your_book(file_base_path, file_name='quizlet_mason2000.csv')
+    book_file_name = 'quizlet_mason2000_full_book.csv'  # 'quizlet_mason2000_merge_16_parts.csv'  # book_file_name = 'quizlet_mason2000.csv'
+    df = get_your_book(file_base_path, file_name=book_file_name)
+    print(df.head())
     # df = get_your_book(file_base_path=file_base_path, file_name=book_file_name)
-    ans_record_file_name = 'ans_record_file.csv'
+    ans_record_file_name = 'ans_record_file_full_book.csv'  # 'ans_record_file_merge_16_parts.csv'  # ans_record_file_name = 'ans_record_file.csv'
     df_ans_record_file = get_your_history_records(file_base_path=file_base_path, file_name=ans_record_file_name)
 
     # Number of questions to review
-    print('Number of questions to review:')
-    ques_num = int(input())
+    # print('Number of questions to review:')
+    # ques_num = int(input())
+    ques_num = int(input(f"""\nNumber of questions to review: """))
     print(f'There will be {ques_num} questions.')
 
     # =============================
@@ -117,19 +141,40 @@ if __name__ == '__main__':
     input_ans = int(input(f"""mode to review:
             1) arbitrary
             2) range
+            3) error history
             """))
     print(f'input mode: input_ans, type(input_ans)')
     if input_ans == 1:
         range_start, range_end = 0, df.shape[0]
+        # print(f'range_start: {range_start}, {type(range_start)}; range_end: {range_end}, {type(range_end)}')
+        rand_list = get_rand_lst(get_n_int=ques_num, input_lst=list(range(range_start, range_end)))
+    elif input_ans == 2:
+        range_start = int(input(f"""range start from no.: """))
+        range_end = int(input(f"""range end to no.: """))
+        # print(f'range_start: {range_start}, {type(range_start)}; range_end: {range_end}, {type(range_end)}')
+        rand_list = get_rand_lst(get_n_int=ques_num, input_lst=list(range(range_start, range_end)))
+    elif input_ans == 3:
+        print(f'os.getcwd(): {os.getcwd()}')
+        print(f'file_base_path: {file_base_path}')
+        print(f'ls -ltr: \n {os.system("ls -ltr")}')
+        en_error_book_date_version = str(input(f"""choose an error book (en) to review:"""))
+        errors_en_sorted_book = f'{en_error_book_date_version}_errors_en_sorted.csv'  # FIXME: hard code
+        df_parsed_error_book = pd.read_csv(f'{file_base_path}/{errors_en_sorted_book}')
+        # print(f'range_start: {range_start}, {type(range_start)}; range_end: {range_end}, {type(range_end)}')
+        tmp_en_list = df_parsed_error_book['vocab'].tolist()
+        rand_list = df.loc[df['en'].isin(tmp_en_list)].index.tolist()
+        rand_list = get_rand_lst(ques_num, rand_list)
+        range_start, range_end = 0, df.shape[0]  # not important, they are from all vocabularies
     else:
-        range_start = int(input(f"""range start from no.:"""))
-        range_end = int(input(f"""range end to no.:"""))
-    #print(f'range_start: {range_start}, {type(range_start)}; range_end: {range_end}, {type(range_end)}')
-    rand_list = get_rand_lst(get_n_int=ques_num, input_lst=list(range(range_start, range_end)))
+        rand_list = None
+        print('wrong input, system exit!')
+        sys.exit()
+
     # rand_list = [3] * 2  # FIXME: for test
     error_book_content = list()
     num_n_question = 1
     for rand in rand_list:
+        cls()
         correct_ans = df.loc[(df.index.isin([rand], level=0)), :]
         # print(f'correct_ans: {correct_ans}')
 
@@ -157,12 +202,7 @@ if __name__ == '__main__':
         num_n_question += 1
         # FIXME: maybe we need a pause
         start_ts = time.time()
-        input_ans = input(f"""{print_out_ques}:
-        1) {input_1}
-        2) {input_2}
-        3) {input_3}
-        4) {input_4}
-        """)
+        input_ans = choose_1_from_4_options()
         end_ts = time.time()
         elapsed_time = round(end_ts - start_ts, 2)
         # print(f'input_1: {input_1}')
@@ -172,6 +212,8 @@ if __name__ == '__main__':
 
         # update df_ans_record_file
         tmp = df_ans_record_file.loc[df_ans_record_file['en'] == print_out_ques[0]]
+        # print(f'debug print_out_ques: {print_out_ques}')
+        # print(f'debug tmp: {tmp}')
         val_review_times = tmp['review_times'].tolist()[0]
         val_correct_times = tmp['correct_times'].tolist()[0]
         val_total_elapsed_time = tmp['total_elapsed_time'].tolist()[0]
@@ -183,7 +225,7 @@ if __name__ == '__main__':
             val_correct_times += 1
         else:
             print('wrong')
-            cnt = 0
+            cnt = 1
             sec_to_sleep = 5
             print(f'take a glance within {sec_to_sleep} (sec)')
             print(f'################################### \n'
@@ -211,7 +253,7 @@ if __name__ == '__main__':
     print(f'''Your history answer sheet is updated successfully!
           Check here: {file_base_path}/{ans_record_file_name}''')
     print(f'df_ans_record_file.shape: {df_ans_record_file.shape}')
-    top_n = 5
+    top_n = 10
     print(f'top {top_n} to review: \n {df_ans_record_file.head(top_n)}')
     top_n_en_lst = df_ans_record_file.head(top_n)['en'].tolist()
     show = df.loc[df['en'].isin(top_n_en_lst)]
@@ -227,7 +269,7 @@ if __name__ == '__main__':
 ''')
 
 """
-base_path="/Users/johnson.huang/py_ds/tutor_python_project/bookmarks/GRE_prepare/GRE_vocab/MasonGRE_2000";
+base_path="/Users/johnson.huang/py_ds/tutor_python_project/bookmarks/GRE_prepare/GRE_vocab/MasonGRE_2000/quiz";
 python \
 ${base_path}/parse_quizlet_mason2000.py \
 --file_base_path "${base_path}"
