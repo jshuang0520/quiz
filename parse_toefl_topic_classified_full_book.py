@@ -274,6 +274,3 @@ python \
 ${base_path}/parse_toefl_topic_classified_full_book.py \
 --file_base_path "${base_path}"
 """
-'''
-
-'''

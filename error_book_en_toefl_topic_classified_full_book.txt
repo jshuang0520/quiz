@@ -1,4 +1,10 @@
 
+===== 2023-01-05 19:05:33 ===== There are [100] questions; range [no. 100] ~ [no. 150]
+horticulture,  quartzite,  outcrop,  acropolis,  ruin,  connoisseur,  seal,  extramarital,  residence,  arcade,  cannibalism,  extramarital,  weave,  subsistence,  arch,  ethnic,  horticulture,  outcrop,  railing,  aborigine,  pictograph,  ethnography,  primitive,  subsistence,  quartzite,  fabric,  railing,  coffin,  ethnic,  sedentary,  ambulatory
+
+===== 2023-01-05 18:20:20 ===== There are [100] questions; range [no. 50] ~ [no. 100]
+declaration,  mobilize,  Republican,  delegate,  racism,  desegregation,  declaration,  racist,  inauguration,  racial,  raid,  repeal,  repeal,  abolitionism,  Democrat,  provision
+
 ===== 2023-01-05 16:49:32 ===== There are [100] questions; range [no. 0] ~ [no. 50]
 agronomist,  agrichemical,  fertilizer,  agrarian,  crop,  sow,  fertilizer,  plow,  agrichemical
 

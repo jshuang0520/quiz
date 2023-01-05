@@ -1,3 +1,14 @@
+# preface
+
+As a (TOEFL & GRE) test taker, I find it difficult to memorize so many new vocabularies.
+
+This is a small project providing functions like flashcards to help you memorize vocabularies by recalling them.
+In the meanwhile, it collects all vocabularies you answered wrong, so that it can save your time to review them again.
+
+note. The initial version of this project was made in only two days (and it was for GRE vocab only), so the quality of code can definitely be enhanced in the future. 
+
+---
+
 # user guide
 
 - download docker desktop
