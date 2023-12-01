@@ -1,11 +1,11 @@
 # preface
 
-As a (TOEFL & GRE) test taker, I find it difficult to memorize so many new vocabularies.
+This project serves as a tool specifically crafted to facilitate a streamlined review of GRE vocabularies. While various tools, such as Magoosh flashcards, exist in the market, this particular product stands apart due to its unique design that caters to personalized requirements.
 
-This is a small project providing functions like flashcards to help you memorize vocabularies by recalling them.
-In the meanwhile, it collects all vocabularies you answered wrong, so that it can save your time to review them again.
+This product boasts several advantages. Firstly, it offers flexibility by enabling users to review vocabularies in various modes. Specifically, individuals can opt for sequential or random vocabulary reviews within a specified range. Moreover, users can determine the number of words to review under different circumstances. Secondly, the product automatically collects data during question answering for comprehensive analysis. This includes recording the time taken for each answer, correct rates for each vocabulary, and the usage of hints, allowing users to focus on reviewing their least familiar words in the future. Thirdly, the product provides users with a second chance for a quick review when they provide an incorrect answer. For instance, I have found it highly efficient to memorize an unfamiliar word within the next five seconds after providing an incorrect answer. This feature addresses a gap in current products, as similar solutions are not readily available. Lastly, the product is open-sourced, reflecting my belief in making education accessible to everyone. By making this project public, I encourage my friends preparing for the GRE test to utilize and benefit from it.
 
-note. The initial version of this project was made in only two days (and it was for GRE vocab only), so the quality of code can definitely be enhanced in the future. 
+
+note. The initial version of this project was made in only two days (and it was for GRE vocab only), so the quality of code can be enhanced in the future. 
 
 ---
 
